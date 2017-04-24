@@ -1,0 +1,1 @@
+1. How to print 1 as 1.000000 (Required Precision) using cout ?
